@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nyc",
+    "city": "New York",
+    "country": "United States",
+    "airportCode": "JFK",
+    "priceFrom": 349,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80",
+    "tag": "Popular"
+  },
+  {
+    "id": "dxb",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "airportCode": "DXB",
+    "priceFrom": 429,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+    "tag": "Trending"
+  },
+  {
+    "id": "sin",
+    "city": "Singapore",
+    "country": "Singapore",
+    "airportCode": "SIN",
+    "priceFrom": 589,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=800&q=80",
+    "tag": "New route"
+  },
+  {
+    "id": "jnb",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "airportCode": "JNB",
+    "priceFrom": 499,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?auto=format&fit=crop&w=800&q=80",
+    "tag": "Popular"
+  },
+  {
+    "id": "bkk",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "airportCode": "BKK",
+    "priceFrom": 459,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=800&q=80",
+    "tag": "Trending"
+  },
+  {
+    "id": "bcn",
+    "city": "Barcelona",
+    "country": "Spain",
+    "airportCode": "BCN",
+    "priceFrom": 79,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&w=800&q=80",
+    "tag": "Short haul"
+  },
+  {
+    "id": "nrt",
+    "city": "Tokyo",
+    "country": "Japan",
+    "airportCode": "HND",
+    "priceFrom": 619,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
+    "tag": "New route"
+  },
+  {
+    "id": "rom",
+    "city": "Rome",
+    "country": "Italy",
+    "airportCode": "FCO",
+    "priceFrom": 69,
+    "currency": "GBP",
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80",
+    "tag": "Short haul"
+  }
+]

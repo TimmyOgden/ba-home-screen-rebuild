@@ -1,0 +1,17 @@
+[
+  { "code": "LHR", "city": "London", "name": "Heathrow" },
+  { "code": "LGW", "city": "London", "name": "Gatwick" },
+  { "code": "LCY", "city": "London", "name": "City Airport" },
+  { "code": "MAN", "city": "Manchester", "name": "Manchester Airport" },
+  { "code": "EDI", "city": "Edinburgh", "name": "Edinburgh Airport" },
+  { "code": "JFK", "city": "New York", "name": "John F. Kennedy" },
+  { "code": "DXB", "city": "Dubai", "name": "Dubai International" },
+  { "code": "SIN", "city": "Singapore", "name": "Changi" },
+  { "code": "JNB", "city": "Johannesburg", "name": "O.R. Tambo" },
+  { "code": "BKK", "city": "Bangkok", "name": "Suvarnabhumi" },
+  { "code": "BCN", "city": "Barcelona", "name": "El Prat" },
+  { "code": "HND", "city": "Tokyo", "name": "Haneda" },
+  { "code": "FCO", "city": "Rome", "name": "Fiumicino" },
+  { "code": "CDG", "city": "Paris", "name": "Charles de Gaulle" },
+  { "code": "AMS", "city": "Amsterdam", "name": "Schiphol" }
+]
